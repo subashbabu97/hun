@@ -6,6 +6,6 @@ for i in range(n):
       if a[i]==a[j]:
         print(a[i],end=' ')
         b=b+1
-if b=0:
+if b==0:
   print("unique")
   
